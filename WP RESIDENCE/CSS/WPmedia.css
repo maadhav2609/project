@@ -1,0 +1,46 @@
+@media(max-width:455px)
+{
+	.nav{display: none}
+	.logo{margin: auto}
+	.part1{width: 100%}
+	.main2{flex-direction: column;}
+	.text2{margin-bottom: -30px}
+	.text1{margin-bottom: -10px}
+	.women{height: 354px;border: 0px;width: 430px;margin-left: -10px;margin-top: 1px}
+	.main3{flex-direction: column;}
+	.pro1{width: 100%}
+	.slide1{flex-direction: column;}
+	.main4 .slide1 .s1{width: 100%}
+	.main4 .slide1 .s2{width: 100%}
+	.main4 .slide1 .s3{width: 100%}
+	.slide2{flex-direction: column;}
+	.main4 .slide2 .s4{width: 100%}
+	.main4 .slide2 .s5{width: 100%}
+	.main5{flex-direction: column;}
+	.services{width: 100%;display: flex;flex-direction:column;}
+	.buy{margin: 0px;padding: 0px;width:100%}
+	.sell{margin: 0px;padding: 0px;width:100%}
+	.support{width:100%;}
+	.free{margin: 0px;padding: 0px;width:100%}
+	.main6{flex-direction: column;}
+	.list{width: 100%}
+	.list1{width: 100%}
+	.list2{width: 100%}
+	.list3{width: 100%}
+	.main7{flex-direction: column;}
+	.f1{width: 100%}
+	.main8{flex-direction: column;}
+	.f2{width: 100%}
+	.main9{flex-direction: column;}
+	.main9 .form1{width: 100%}
+	.form1 table{margin: 0px;padding: 0px}
+	.input{width: 350px}
+	.main9 .formimage{width: 100%}
+	.main10{flex-direction: column;}
+	.footer{width: 100%;}
+	.main10 .footer1{margin: 0px;padding: 0px;}
+
+
+
+	
+}
